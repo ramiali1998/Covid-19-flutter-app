@@ -224,15 +224,6 @@ class _HomePageState extends State<HomePage> {
     );
   }
 
-  Widget textMaker({String data}) {
-    return Align(
-        alignment: Alignment.center,
-        child: Text(
-          "$data",
-          style: TextStyle(fontSize: 20),
-        ));
-  }
-
   Widget overView(
       {String title, String counter, Color textColor, Color backColor}) {
     return Container(
