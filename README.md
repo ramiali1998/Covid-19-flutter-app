@@ -1,4 +1,4 @@
-# learnapi
+# Covid-19 api flutter app
 
 A new Flutter application.
 
